@@ -23,4 +23,4 @@ I enjoy studying the _performance_ and _reliability_ of _Machine Learning for in
 + [Feb 2021] **Research:** New abstract “Can un-trained networks compete with trained ones for accelerated MRI?” accepted to ISMRM 2021 as an **oral** presentation at the “Machine Learning for Image Reconstruction” session [[paper](https://index.mirasmart.com/ISMRM2021/PDFfiles/0271.html), [code](https://github.com/MLI-lab/ConvDecoder)]. 
 + [Oct 2020] **Research:** New paper “Low cost DNA data storage using photolithographic synthesis and advanced information reconstruction and error correction” accepted to **Nature Communications** [[paper](https://www.nature.com/articles/s41467-020-19148-3), [code](https://github.com/MLI-lab/noisy_dna_data_storage)].
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NcLP4mVk13rbqSFKS2RfRdGdeF5152TzEB6AWF_QY58&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=NcLP4mVk13rbqSFKS2RfRdGdeF5152TzEB6AWF_QY58'></script>

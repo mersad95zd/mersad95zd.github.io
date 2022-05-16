@@ -10,28 +10,27 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D,  **University of Illinois at Urbana-Champaign**, IL, USA, Aug 2019 - May 2024 (expected)
+* Ph.D,  **Rice University**, TX, USA, Oct 2018 - Jun 2023 (expected)
   * Major: *Electrical & Computer Engineering*
-  * Research Area: *Machine Learning*
-  * Advisors: _Prof. [Han Zhao](https://hanzhaoml.github.io/)_ and *Prof. [Bo Li](https://aisecure.github.io/)*
+  * Research Area: *Data Science*
+  * Advisors: _Prof. [Reinhard Heckel](http://reinhardheckel.com/)_ 
   * GPA: 4.00/4.00
-* B.S., **University of Illinois at Urbana-Champaign**, IL, USA, Aug 2015 - May 2019
-  * Majors: (1) *Statistics & Computer Science*, (2) *Physics*
-  * GPA: 3.89/4.00
+* B.S., **Sharif University of Technology**, Tehran, IRAN, Aug 2013 - Jun 2018
+  * Major: *Electrical Engineering*
+  * GPA: 3.51/4.00
 
 ## Professional Experience
 
-* May 2022 - Aug 2022: [**Amazon Web Services** (AWS)](https://aws.amazon.com/)
-  * Job: *Applied Scientist Intern*
+* Jun 2022 - Sept 2022: [**Nvidia Research**](https://www.nvidia.com/en-us/research/)
+  * Job: *Applied Research Scientist Intern*
 
-* May 2021 - Aug 2021: [**Waymo LLC**](https://waymo.com/) (formerly the Google self-driving car project)
-  * Job: *Research Intern*
 
 ## Awards & Honors
 
-+ [Mavis Future Faculty Fellow (MF3)](https://mavis.grainger.illinois.edu/), 2022-2023
-+ [NeurIPS](https://neurips.cc/Conferences/2019) Travel Award, 2019
++ [SIAWE](https://siawe.org/) fellowship award, 2019, 2020, 2021, 2022.
++ [INEF](https://olden.bmn.ir/) (Iran’s National Elites Foundation) fellowship award, 2013.
 
 ## Services
 
-+ Reviewer of Conferences: *AAAI 2021, AISTATS 2021, CVPR 2021, ICCV 2021, AISTATS 2022, ICML 2022, NeurIPS 2022.*
++ Reviewer of Conferences: *ICLR 2022, ICML 2022, NeurIPS 2022, ISIT 2021.*
++ Reviewer of Journals: *IEEE-TSP 2022.*

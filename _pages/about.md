@@ -15,6 +15,8 @@ I enjoy studying the _performance_ and _reliability_ of _Machine Learning for in
 
 ## News
 
++ [May 2022] **Research:** New paper "Test-time training can close the natural distribution shift performance gap in deep learning based compressed sensing" accepted to ICML 2022 [[paper](https://arxiv.org/pdf/2204.07204), [Code](https://github.com/MLI-lab/ttt_for_deep_learning_cs)].
++ [May 2022] **Research:** I'll join Nvidia Research as an _Applied Research Scientist Intern_ for Summer 2022; very excited about it!
 + [Jun 2021] **Research:** New paper “Accelerated MRI with un-trained neural networks” accepted to IEEE Transactions on Computational Imaging [[paper](https://arxiv.org/pdf/2007.02471), [code](https://github.com/MLI-lab/ConvDecoder)].
 + [Jun 2021] **Invited talk:** Guest speaker at UCSF Journal Club for robustness of deep learning based compressed sensing methods.
 + [May 2021] **Research:** Our interactive demo for accelerated MRI reconstruction using un-trained networks won the 2nd place in the MR-Pub Competition.

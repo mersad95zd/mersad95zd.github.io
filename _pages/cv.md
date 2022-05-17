@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 * Ph.D,  **Rice University**, TX, USA, Oct 2018 - Jun 2023 (expected)
   * Major: *Electrical & Computer Engineering*
-  * Research Area: *Data Science*
+  * Research Area: *Machine Learning, Image Reconstruction, Robustness*
   * Advisors: _Prof. [Reinhard Heckel](http://reinhardheckel.com/)_ 
   * GPA: 4.00/4.00
 * B.S., **Sharif University of Technology**, Tehran, IRAN, Aug 2013 - Jun 2018

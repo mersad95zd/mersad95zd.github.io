@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<p class="text-justify">
 I am a 4th-year PhD student in the _ECE department_ at [Rice University](https://eceweb.rice.edu/). I work in the _Machine Learning and Information processing Laboratory (MLI Lab)_ and have been lucky to be advised by [Reinhard Heckel](http://reinhardheckel.com/). 
 Previously, I graduated with my BSc in _EE_ from [Sharif University of Technology](http://ee.sharif.edu/~web/en/).
 
@@ -24,5 +25,7 @@ I enjoy studying the performance and reliability of _Machine Learning for invers
 + [May 2021] **Research:** New paper “Measuring robustness in deep learning based compressive sensing” accepted to ICML 2021 as a **long talk (top 3% papers)** [[paper](https://proceedings.mlr.press/v139/darestani21a.html), [code](https://github.com/MLI-lab/Robustness-CS)].
 + [Feb 2021] **Research:** New abstract “Can un-trained networks compete with trained ones for accelerated MRI?” accepted to ISMRM 2021 as an **oral** presentation at the “Machine Learning for Image Reconstruction” session [[paper](https://index.mirasmart.com/ISMRM2021/PDFfiles/0271.html), [code](https://github.com/MLI-lab/ConvDecoder)]. 
 + [Oct 2020] **Research:** New paper “Low cost DNA data storage using photolithographic synthesis and advanced information reconstruction and error correction” accepted to **Nature Communications** [[paper](https://www.nature.com/articles/s41467-020-19148-3), [code](https://github.com/MLI-lab/noisy_dna_data_storage)].
+
+</p>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=NcLP4mVk13rbqSFKS2RfRdGdeF5152TzEB6AWF_QY58'></script>

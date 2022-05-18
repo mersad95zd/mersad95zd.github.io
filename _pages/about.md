@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right">
+<div style="text-align: justify">
 I am a 4th-year PhD student in the _ECE department_ at [Rice University](https://eceweb.rice.edu/). I work in the _Machine Learning and Information processing Laboratory (MLI Lab)_ and have been lucky to be advised by [Reinhard Heckel](http://reinhardheckel.com/). 
 Previously, I graduated with my BSc in _EE_ from [Sharif University of Technology](http://ee.sharif.edu/~web/en/).
 </div>

@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">
 I am a 4th-year PhD student in the _ECE department_ at [Rice University](https://eceweb.rice.edu/). I work in the _Machine Learning and Information processing Laboratory (MLI Lab)_ and have been lucky to be advised by [Reinhard Heckel](http://reinhardheckel.com/). 
 Previously, I graduated with my BSc in _EE_ from [Sharif University of Technology](http://ee.sharif.edu/~web/en/).
-</div>
   
 I enjoy studying the performance and reliability of _Machine Learning for inverse problems_, especially image reconstruction tasks. My current focus is on (1) understanding adversarial and distributional robustness of image reconstruction methods in the context of accelerated MRI reconstruction and (2) developing more robust models. 
 

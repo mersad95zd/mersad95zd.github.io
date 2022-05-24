@@ -30,7 +30,7 @@ author_profile: true
 
    <u>Mohammad Zalbagi Darestani</u>, Akshay S Chaudhari, Reinhard Heckel
 
-   *International Conference on Machine Learning (**ICML**), **oral**, 2021*
+   *International Conference on Machine Learning (**ICML**), **long talk**, 2021*
 
 4. [**Low cost DNA data storage using photolithographic synthesis and advanced information reconstruction and error correction**](https://www.nature.com/articles/s41467-020-19148-3) [[Code](https://github.com/MLI-lab/noisy_dna_data_storage)]
 

@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th-year PhD student in the _ECE department_ at [Rice University](https://eceweb.rice.edu/). I work in the _Machine Learning and Information processing Laboratory (MLI Lab)_ and have been lucky to be advised by [Reinhard Heckel](http://reinhardheckel.com/). 
-Previously, I graduated with my BSc in _EE_ from [Sharif University of Technology](http://ee.sharif.edu/~web/en/).
+I'm an AI Research Scientist at Ground Truth Analytics (GTA) working on deep learning based satellite imagery for agricultural applications.
+I recently graduated from [Rice University](https://eceweb.rice.edu/) _ECE department_. There, I worked in the _Machine Learning and Information processing Laboratory (MLI Lab)_ and was very lucky to be advised by [Reinhard Heckel](http://reinhardheckel.com/). 
+Before that, I did my undergrad in _EE_ at [Sharif University of Technology](http://ee.sharif.edu/~web/en/).
   
-I enjoy studying the performance and reliability of _Machine Learning for inverse problems_, especially image reconstruction tasks. My current focus is on (1) understanding adversarial and distributional robustness of image reconstruction methods in the context of accelerated MRI reconstruction and (2) developing more robust models. 
+I'm highly passionate about _AI for Good_. In particular, I enjoy studying the performance and reliability of _Deep Learning_ models in computer vision applications such as image classification and image reconstruction. 
 
 ## News
 
++ [Aug 2023] **Research:** New paper "IR-FRestormer: Iterative Refinement with Fourier-Based Restormer for Accelerated MRI Reconstruction" accepted to WACV 2024.
++ [May 2023] **Work:** I joined GTA to work with a brilliant group to revolutionize agriculture via satellite imagery. We work on a variety of data-driven approaches to enhance global food security.
++ [May 2023] **Research:** I successfully defended my [Ph.D. thesis](https://scholarship.rice.edu/handle/1911/115153)!
 + [May 2022] **Research:** New paper "Test-time training can close the natural distribution shift performance gap in deep learning based compressed sensing" accepted to ICML 2022 [[paper](https://arxiv.org/pdf/2204.07204), [Code](https://github.com/MLI-lab/ttt_for_deep_learning_cs)].
 + [May 2022] **Research:** I'll join Nvidia Research as an _Applied Research Scientist Intern_ for Summer 2022; very excited about it!
 + [Jun 2021] **Research:** New paper “Accelerated MRI with un-trained neural networks” accepted to IEEE Transactions on Computational Imaging [[paper](https://arxiv.org/pdf/2007.02471), [code](https://github.com/MLI-lab/ConvDecoder)].

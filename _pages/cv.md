@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D,  **Rice University**, TX, USA, Oct 2018 - Jun 2023 (expected)
+* Ph.D,  **Rice University**, TX, USA, Oct 2018 - May 2023
   * Major: *Electrical & Computer Engineering*
   * Research Area: *Machine Learning, Image Reconstruction, Robustness*
   * Advisors: _Prof. [Reinhard Heckel](http://reinhardheckel.com/)_ 
@@ -20,7 +20,8 @@ redirect_from:
   * GPA: 3.51/4.00
 
 ## Professional Experience
-
+* May 2023 - present: **Ground Truth Analytics**
+  * Job: *AI Research Scientist*
 * Jun 2022 - Sept 2022: [**Nvidia Research**](https://www.nvidia.com/en-us/research/)
   * Job: *Applied Research Scientist Intern*
 

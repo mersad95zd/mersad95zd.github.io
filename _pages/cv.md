@@ -21,9 +21,9 @@ redirect_from:
 
 ## Professional Experience
 * May 2023 - present: **Ground Truth Analytics**
-  * Job: *AI Research Scientist*
+  * Position: *AI Research Scientist*
 * Jun 2022 - Sept 2022: [**Nvidia Research**](https://www.nvidia.com/en-us/research/)
-  * Job: *Applied Research Scientist Intern*
+  * Position: *Applied Research Scientist Intern*
 
 
 ## Awards & Honors

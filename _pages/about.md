@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm an AI Research Scientist at Ground Truth Analytics (GTA) working on deep learning based satellite imagery for agricultural applications.
-I recently graduated from [Rice University](https://eceweb.rice.edu/) _ECE department_. There, I worked in the _Machine Learning and Information processing Laboratory (MLI Lab)_ and was very lucky to be advised by [Reinhard Heckel](http://reinhardheckel.com/). 
+I'm a Senior Machine Learning Researcher at Struction working on Vision-Language Models (VLMs) to build automated pipelines for construction. Previously, I worked at Ground Truth Analytics (GTA) as an AI Research Engineer working on deep learning based satellite imagery for agricultural applications.
+In terms of my academic path, I did my PhD at [Rice University](https://eceweb.rice.edu/) _ECE department_. There, I worked in the _Machine Learning and Information processing Laboratory (MLI Lab)_ and was very lucky to be advised by [Reinhard Heckel](http://reinhardheckel.com/). 
 Before that, I did my undergrad in _EE_ at [Sharif University of Technology](http://ee.sharif.edu/~web/en/).
   
-I'm highly passionate about _AI for Good_. In particular, I enjoy studying the performance and reliability of _Deep Learning_ models in computer vision applications such as image classification and image reconstruction. 
+In general, I'm highly passionate about _AI for Good_. In particular, I enjoy studying the performance and reliability of _Deep Learning_ models in computer vision applications such as image classification and image reconstruction. 
 
 ## News
-
++ [Feb 2026] **Work:** I joined Struction as part of a fantastic team to develop vision-language foundation models to automate construction.
 + [Aug 2023] **Research:** New paper "IR-FRestormer: Iterative Refinement with Fourier-Based Restormer for Accelerated MRI Reconstruction" accepted to WACV 2024.
 + [May 2023] **Work:** I joined GTA to work with a brilliant group to revolutionize agriculture via satellite imagery. We work on a variety of data-driven approaches to enhance global food security.
 + [May 2023] **Research:** I successfully defended my [Ph.D. thesis](https://scholarship.rice.edu/handle/1911/115153)!
